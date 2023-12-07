@@ -1,7 +1,4 @@
-Advent of Code[About][Events][Shop][Settings][Log Out]Koepoe 9*
-  {:year 2023}[Calendar][AoC++][Sponsors][Leaderboard][Stats]
-Our sponsors help make Advent of Code possible:
-Optiver - Ready to solve puzzles for a living? We’re hiring C++, C# and Python experts to code sub-nanosecond trading systems. Get ready for problem solving, continuous learning and the freedom to bring your software solutions to life
+
 --- Day 6: Wait For It ---
 The ferry quickly brings you across Island Island. After asking around, you discover that there is indeed normally a large pile of sand somewhere near here, but you don't see anything besides lots of water and the small island where the ferry has docked.
 
